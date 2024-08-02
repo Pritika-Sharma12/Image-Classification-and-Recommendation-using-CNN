@@ -12,6 +12,7 @@ Applications of Image Classification:
 - Retail and E-commerce: Categorizing products, recommending similar items, and analyzing customer behavior based on image data.
 
 Why CNN is used for training this reccomendation system?
+
 The code uses the VGG16 (Visual Geometry Group 16) deep learning model for feature extraction.
 VGG16 is a convolutional neural network (CNN) architecture that is pre-trained on the ImageNet dataset for image classification tasks. In this code, the pre-trained VGG16 model is used to extract features fromfashion images, which are then used to recommend similar fashion items based on a given input image.
 
