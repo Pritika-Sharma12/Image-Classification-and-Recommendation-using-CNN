@@ -1,8 +1,8 @@
-# Image-Classification-and-Recommendation-using-CNN
-Image Classification and Recommendation using Convolutional Neural Network(CNN)
+# Image-Classification-and-Recommendation-using-CNN (Deep Learning)
+Image Classification and Recommendation using Convolutional Neural Network(CNN) [Deep Learning]
 
 Introduction:
-Image classification is a fundamental task in computer vision that involves categorizing images into predefined classes or categories. It plays a crucial rolein various real-world applications such as medical diagnosis, autonomous driving, object detection, content moderation, and more. The goal of imageclassification is to teach a computer to recognize and differentiate between different objects or patterns within images.
+Image classification is a fundamental task in computer vision a part of Deep Learning that involves categorizing images into predefined classes or categories. It plays a crucial rolein various real-world applications such as medical diagnosis, autonomous driving, object detection, content moderation, and more. The goal of imageclassification is to teach a computer to recognize and differentiate between different objects or patterns within images.
 
 Applications of Image Classification:
 - Medical Imaging: Diagnosing diseases from medical images such as X-rays, MRI scans, and histopathology slides.
