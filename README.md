@@ -20,4 +20,4 @@ VGG16 is a convolutional neural network (CNN) architecture that is pre-trained o
 - Spatial Hierarchies: It consider the spatial hierarchies present in images, extracting features from local regions and combining them to form globalrepresentations.
 - Translation Invariance: CNNs are inherently translation-invariant, meaning they can recognize objects regardless of their position in the image.
 - Parameter Sharing: It uses parameter sharing to reduce the number of trainable parameters, making them more efficient for large-scale image datasets.
-- State-of-the-Art Performance: CNNs have demonstrated state-of-the-art performance on various image classification benchmarks, surpassing traditionalmachine learning algorithms
+- State-of-the-Art Performance: CNNs have demonstrated state-of-the-art performance on various image classification benchmarks, surpassing traditionalmachine learning algorithms.
